@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  gamertag: MyString
+  city: MyString
+  games: MyString
+  motto: MyString
+
+two:
+  name: MyString
+  gamertag: MyString
+  city: MyString
+  games: MyString
+  motto: MyString
